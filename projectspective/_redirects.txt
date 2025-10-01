@@ -1,3 +1,0 @@
-http://projectspective.com/*      https://projectspective.com/:splat   301!
-http://www.projectspective.com/*  https://projectspective.com/:splat   301!
-https://www.projectspective.com/* https://projectspective.com/:splat   301!
